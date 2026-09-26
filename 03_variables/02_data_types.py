@@ -16,7 +16,7 @@ cgpa = 8.2
 print(cgpa)
 print(type(cgpa))
 
-name = "Harry"
+name = "sahil"
 print(name)
 print(type(name))
 
